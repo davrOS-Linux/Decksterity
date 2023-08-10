@@ -1,3 +1,3 @@
 # Decksterity
 ![Decksterity Logo](images/branding/decksterity_for_davros.png)
-Steam Deck tools for davrOS
+davrOS tools for ease of use on the Valve Steam Deck
